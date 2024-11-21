@@ -1,4 +1,4 @@
-# Spotify Premium MOD Tool
+# Spotify Premium MOD Tool by KDG
 
 **Spotify Premium MOD Tool** — это модификация официального клиента Spotify, которая позволяет пользователю получить доступ ко всем премиум функциям Spotify без необходимости подписки. Модификация была разработана командой KDG и предоставляется бесплатно для использования.
 
@@ -36,7 +36,7 @@
 
 ---
 
-# Spotify Premium MOD Tool (English Version)
+# Spotify Premium MOD Tool by KDG (English Version)
 
 **Spotify Premium MOD Tool** is a modification of the official Spotify client that allows users to access all premium features of Spotify without the need for a subscription. The modification was developed by KDG and is provided free of charge for use.
 
